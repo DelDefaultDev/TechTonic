@@ -1,0 +1,8 @@
+Folder for things that are broken and I can't figure out how to fix.
+Basically just a place for big issues that I can't really figure out just yet, like game crashing.
+Known issues will be listed here and broken files will be in this folder.
+Help in fixing these is appreciated.
+
+CURRENT KNOWN ISSUES:
+Interspatial Melter keeps crashing Mindustry when being placed
+Interspatial Separator crashes Mindustry when trying to look at its info both through Core Database and the in-game block selector

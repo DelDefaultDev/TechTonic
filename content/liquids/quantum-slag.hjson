@@ -1,0 +1,7 @@
+{
+    "name": "Quantum Slag",
+    "description": "The liquid version of Quantum Scrap.",
+    "temperature": 0.9,
+    "viscosity": 0.6,
+    "color": 8b7e65
+}
