@@ -1,0 +1,8 @@
+{
+        "type": "material",
+        "name": "Abysmite", //Le name
+        "description": "A pure black material, it seems to consume the light itself.",
+        "hardness": "4",
+        "cost": "4",
+        "research": "thorium"
+}

@@ -1,0 +1,27 @@
+{
+    "type": "GenericCrafter",
+    "name": "Phase Breaker",
+    "description": "Restructures Phase Fabric with Abysmite and Chromia.",
+    "size": 3,
+    "hasPower": true,
+    "craftTime": 20,
+    "updateEffect": "smeltsmoke",
+    "outputItem": "quantum-fabric/1",
+    "consumes": { //stuff it uses up
+        "power": 0.6,
+        "items": {
+            "items": [
+                phase-fabric/1
+                abysmite/2
+                chromia/2
+            ]
+        }
+    }
+    "requirements": [
+        thorium/100
+        titanium/120
+        lead/150
+    ]
+    "category": "crafting",
+    "research": "phase-weaver"
+}

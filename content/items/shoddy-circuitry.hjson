@@ -1,0 +1,6 @@
+{
+        "type": "material",
+        "name": "Shoddy Circuitry",
+        "description": "A shoddily-made piece of circuitry.",
+        "cost": 5
+}

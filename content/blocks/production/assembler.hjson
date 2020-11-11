@@ -1,0 +1,26 @@
+{
+    "type": "GenericCrafter",
+    "name": "Assembler",
+    "description": "Creates low-quality circuit boards out of Copper and Silicon.",
+    "size": 2,
+    "hasPower": true,
+    "craftTime": 15,
+    "updateEffect": "formsmoke",
+    "outputItem": "shoddy-circuitry/1",
+    "consumes": { //stuff it uses up
+        "power": 0.8,
+        "items": {
+            "items": [
+                copper/2
+                silicon/5
+            ]
+        }
+    }
+    "requirements": [
+        copper/75
+        lead/60
+        silicon/35
+    ]
+    "category": "crafting",
+    "research": "silicon-smelter"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Large Quantum Phase Wall",
+    "description": "The restructured Phase Fabric in this wall reacts violently to being damaged. Spans multiple tiles.",
+    "type": "SurgeWall" //This block is a wall block. A violent wall block.
+    "health": 4000,
+    "size": 2,
+    "requirements": [
+        quantum-fabric/24
+    ]
+    "category": "defense",
+    "research": "phase-wall-large"
+}
