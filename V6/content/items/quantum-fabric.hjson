@@ -1,0 +1,6 @@
+{
+        "type": "material",
+        "name": "Quantum Fabric", //name
+        "description": "Phase Fabric that has been restructured with Abysmite and Chromia. It's taken on strange properties.",
+        "cost": 6
+}

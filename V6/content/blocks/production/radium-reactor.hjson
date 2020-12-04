@@ -1,0 +1,25 @@
+{
+    "type": "GenericSmelter",
+    "name": "Radium Reactor",
+    "description": "Creates Radium.",
+    "size": 2,
+    "hasPower": true,
+    "craftTime": 10,
+    "updateEffect": "smeltsmoke",
+    "flameColor": "bf92f8",
+    "outputItem": "radium/1",
+    "consumes": { //stuff it uses up
+        "power": 0.4,
+        "items": {
+            "items": [
+                thorium/3
+            ]
+        }
+        "liquid": slag/1
+    }
+    "requirements": [
+        surge-alloy/30
+        thorium/50
+    ]
+    "category": "crafting"
+}

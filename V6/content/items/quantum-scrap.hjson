@@ -1,0 +1,7 @@
+{
+        "type": "material",
+        "name": "Quantum Scrap", //Le name
+        "description": "Scrap that has reacted with Abysmite and Chromia. It has taken on strange properties.",
+        "cost": "5",
+        "alwaysUnlocked": true
+}

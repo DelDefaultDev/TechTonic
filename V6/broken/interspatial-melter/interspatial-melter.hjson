@@ -1,0 +1,27 @@
+{
+    "type": "GenericSmelter",
+    "name": "Interspatial Melter",
+    "description": "This upgraded melter can melt Quantum Scrap into Quantum Slag.",
+    "size": 1,
+    "hasPower": true,
+    "craftTime": 12,
+    "updateEffect": "smeltsmoke",
+    "flameColor": "ffff00",
+    "outputLiquid": "quantum-slag/1",
+    "consumes": { //stuff it uses up
+        "power": 0.5,
+        "items": {
+            "items": [
+                quantum-scrap/1
+            ]
+        }
+    }
+    "requirements": [
+        copper/100
+        titanium/50
+        abysmite/10
+        chromia/10
+    ]
+    "category": "crafting",
+    "research": "melter"
+}

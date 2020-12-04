@@ -1,0 +1,7 @@
+{
+        "type": "material",
+        "name": "Prismite", //Le name
+        "description": "A glassy, colorful material.",
+        "cost": "8"
+        "alwaysUnlocked": true
+}

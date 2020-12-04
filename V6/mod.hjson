@@ -1,0 +1,9 @@
+{
+  "name": "defaultdev-techtonic", //reference name
+  "displayName": "TechTonic", //display name
+  "author": "DefaultDev", //creator
+  "description": "TechTonic is an in-development mod that will soon add many things to Mindustry.", //description
+  "version": "0.2", //version
+  "minGameVersion": "120" //compatible with V5 until s o o n
+  //this mod works about as well as air being used in the place of a hammer
+}

@@ -1,0 +1,8 @@
+{
+        "type": "material",
+        "name": "Chromia", //Le name
+        "description": "A pure white material, it seems to radiate a strong light.",
+        "hardness": "4",
+        "cost": "4",
+        "research": "thorium"
+}

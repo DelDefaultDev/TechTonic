@@ -1,0 +1,7 @@
+{
+        "type": "material",
+        "name": "Radium", //Le name
+        "description": "A radioactive material.",
+        "cost": "5"
+        "alwaysUnlocked": true
+}
